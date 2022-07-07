@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isInterleave(string s1, string s2, string s3) {
+    bool isInterleave(const string & s1, const string & s2, const string & s3) {
         if (s3.length() != s1.length() + s2.length()) {
             return false;
         }
