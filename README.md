@@ -33,3 +33,13 @@ ____
 #### *Number of Steps to Reduce a Number in Binary Representation to One*
 * [Task](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
 * [Solution](https://github.com/Klanick/Leetcode/blob/main/day_5/solution.cpp)
+#
+## [Day 6](https://github.com/Klanick/Leetcode/tree/main/day_6)
+#### *Number of Steps to Reduce a Number in Binary Representation to One*
+* [Task](https://leetcode.com/problems/binary-tree-right-side-view/submissions/)
+* [Solution](https://github.com/Klanick/Leetcode/blob/main/day_6/solution.cpp)
+#
+## [Day 8](https://github.com/Klanick/Leetcode/tree/main/day_8)
+#### *Number of Steps to Reduce a Number in Binary Representation to One*
+* [Task](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+* [Solution](https://github.com/Klanick/Leetcode/blob/main/day_8/solution.cpp)
