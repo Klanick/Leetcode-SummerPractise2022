@@ -1,5 +1,5 @@
 # Leetcode
-#### [Scoltech Practise](https://github.com/SkoltechSummerCamp)
+#### [Practise General Repository](https://github.com/SkoltechSummerCamp)
 ____
 ## [Day 1](https://github.com/Klanick/Leetcode/tree/main/day_1)
 ### *Reverse String*
